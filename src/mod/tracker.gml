@@ -99,9 +99,7 @@ function get_items()
         "starwalker",
         "bouquet",
         "ballofjunk",
-        "hotchocolate",
         "cards",
-        "boxofheartcandy"
     );
 }
 
