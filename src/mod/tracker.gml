@@ -277,9 +277,9 @@ function get_litem_name(_id)
         case 8: return "egg";
         case 9: return "cards";
         case 10: return "boxofheartcandy";
-        case 11: return "glass";
-        case 12: return "eraser";
+        case 11: return "shadowcrystal";
+        case 12: return "bounceblade";
         case 13: return "mechasaber";
-        case 14: return "wristwatch";
+        case 14: return "silverwatch";
     }
 }
