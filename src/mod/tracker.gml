@@ -69,7 +69,7 @@ function get_items()
         "woodblade",
         "mechasaber",
         "bounceblade",
-        "spookyword",
+        "spookysword",
         "brokensword",
         "devilsknife",
         "braveax",
