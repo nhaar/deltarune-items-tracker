@@ -119,8 +119,6 @@ function initialize_tracker()
     {
         ini_write_real("items", items[i], 0);
     }
-    // this one is basically... trivial so just always gonna count
-    count_item("cellphone");
     ini_close();
 }
 
