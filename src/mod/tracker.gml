@@ -279,3 +279,8 @@ function get_litem_name(_id)
         case 14: return "silverwatch";
     }
 }
+
+function get_mod_version()
+{
+    return "1.0";
+}
